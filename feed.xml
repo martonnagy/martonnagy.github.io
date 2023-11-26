@@ -36,7 +36,23 @@
             <itunes:episodeType>full</itunes:episodeType>
             <guid isPermaLink="false">https://martonnagy.github.io/audio/More_Ancient_Egyptian_Granite_Vases_Analyzed_[QzFMDS6dkWU].mp3</guid>
             <pubDate>Thu Nov 2 07:48:00 2023</pubDate>
-            <itunes:explicit>YES/NO</itunes:explicit>
+            <itunes:explicit>NO</itunes:explicit>
+        </item>
+        <item>
+            <title>Solo Survival for Months</title>
+            <itunes:title>Solo Survival for Months</itunes:title>
+            <itunes:author>Survival Despatch</itunes:author>
+            <itunes:subtitle>Solo Survival For Months I Dangers of Being ALONE | On3 Jason Salyer</itunes:subtitle>
+            <itunes:summary><![CDATA[Astonishing Results! More Ancient Egyptian Granite Vases Analyzed! More STL's available]]></itunes:summary>
+            <description><![CDATA[If you could take all the survival gear you could carry to the wilderness location of your choice, how long would you last? What would make you quit? Would you miss your family? Would you get injured or sick? What would it take to stay forever? Jason discusses the reality of long term survival. Most winners on the show Alone are not your normal people. They’re a rare breed that’s grouped in a small percentage of survivors. ]]></description>
+            <enclosure url="https://martonnagy.github.io/audio/Solo_Survival_for_Months.mp3" length="19558892" type="audio/mpeg"/>
+            <itunes:duration>1222</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>2</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <guid isPermaLink="false">https://martonnagy.github.io/audio/Solo_Survival_for_Months.mp3</guid>
+            <pubDate>Sun Nov 26 16:48:00 2023</pubDate>
+            <itunes:explicit>NO</itunes:explicit>
         </item>
     </channel>
 </rss>
