@@ -70,5 +70,21 @@
             <pubDate>Mon, 1 Jan 08:30:00 2024 GMT</pubDate>
             <itunes:explicit>NO</itunes:explicit>
         </item>
+        <item>
+            <title>Szendi Gábor Egészség, Immunerő, Táplálkozás, Paleo, Jóllét, Élelmiszerek</title>
+            <itunes:title>Szendi Gábor Egészség, Immunerő, Táplálkozás, Paleo, Jóllét, Élelmiszerek</itunes:title>
+            <itunes:author>Szendi Gabor</itunes:author>
+            <itunes:subtitle>Szendi Gábor Egészség, Immunerő, Táplálkozás, Paleo, Jóllét, Élelmiszerek</itunes:subtitle>
+            <itunes:summary><![CDATA[Szendi Gábor Egészség, Immunerő, Táplálkozás, Paleo, Jóllét, Élelmiszerek Mindenségit. #67]]></itunes:summary>
+            <description><![CDATA[Beszélgetés Szendi Gáborral egészségről, betegségekről]]></description>
+            <enclosure url="https://martonnagy.github.io/audio/szendi_mindensegit.mp3" length="73966868" type="audio/mpeg"/>
+            <itunes:duration>6944</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>4</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <guid isPermaLink="false">https://martonnagy.github.io/audio/szendi_mindensegit.mp3</guid>
+            <pubDate>Mon, 1 Jan 09:47:00 2024 GMT</pubDate>
+            <itunes:explicit>NO</itunes:explicit>
+        </item>
     </channel>
 </rss>
