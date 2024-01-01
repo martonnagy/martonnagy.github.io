@@ -46,12 +46,28 @@
             <itunes:summary><![CDATA[Astonishing Results! More Ancient Egyptian Granite Vases Analyzed! More STL's available]]></itunes:summary>
             <description><![CDATA[If you could take all the survival gear you could carry to the wilderness location of your choice, how long would you last? What would make you quit? Would you miss your family? Would you get injured or sick? What would it take to stay forever? Jason discusses the reality of long term survival. Most winners on the show Alone are not your normal people. They’re a rare breed that’s grouped in a small percentage of survivors. ]]></description>
             <enclosure url="https://martonnagy.github.io/audio/Solo_Survival_for_Months.mp3" length="19558892" type="audio/mpeg"/>
-            <itunes:duration>1222</itunes:duration>
+            <itunes:duration>1230</itunes:duration>
             <itunes:season>1</itunes:season>
             <itunes:episode>2</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
             <guid isPermaLink="false">https://martonnagy.github.io/audio/Solo_Survival_for_Months.mp3</guid>
             <pubDate>Sun Nov 26 16:48:00 2023</pubDate>
+            <itunes:explicit>NO</itunes:explicit>
+        </item>
+        <item>
+            <title>Szendi Gabor - Mikor, mettol, meddig egyunk</title>
+            <itunes:title>Szendi Gabor - Mikor, mettol, meddig egyunk</itunes:title>
+            <itunes:author>Szendi Gabor</itunes:author>
+            <itunes:subtitle>Szendi Gábor Mikor, Mettől Meddig, Mit Együnk</itunes:subtitle>
+            <itunes:summary><![CDATA[Szendi Gábor Mikor, Mettől Meddig, Mit Együnk]]></itunes:summary>
+            <description><![CDATA[2023- május 6-án a Magyar Természetgyógyászok Szövetsége konferenciáján a PRO NATURA ET VITA díj átvételekor tartott előadásom]]></description>
+            <enclosure url="https://martonnagy.github.io/audio/szendi_mikor_mettol_meddig.mp3" length="16769156" type="audio/mpeg"/>
+            <itunes:duration>1516</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>3</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <guid isPermaLink="false">https://martonnagy.github.io/audio/szendi_mikor_mettol_meddig.mp3</guid>
+            <pubDate>Mon Jan 1 08:30:00 2024</pubDate>
             <itunes:explicit>NO</itunes:explicit>
         </item>
     </channel>
