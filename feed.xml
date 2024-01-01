@@ -35,7 +35,7 @@
             <itunes:episode>1</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
             <guid isPermaLink="false">https://martonnagy.github.io/audio/More_Ancient_Egyptian_Granite_Vases_Analyzed_[QzFMDS6dkWU].mp3</guid>
-            <pubDate>Thu Nov 2 07:48:00 2023</pubDate>
+            <pubDate>Thu, 2 Nov 07:48:00 2023 GMT</pubDate>
             <itunes:explicit>NO</itunes:explicit>
         </item>
         <item>
@@ -51,7 +51,7 @@
             <itunes:episode>2</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
             <guid isPermaLink="false">https://martonnagy.github.io/audio/Solo_Survival_for_Months.mp3</guid>
-            <pubDate>Sun Nov 26 16:48:00 2023</pubDate>
+            <pubDate>Sun, 26 Nov 16:48:00 2023 GMT</pubDate>
             <itunes:explicit>NO</itunes:explicit>
         </item>
         <item>
@@ -67,7 +67,7 @@
             <itunes:episode>3</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
             <guid isPermaLink="false">https://martonnagy.github.io/audio/szendi_mikor_mettol_meddig.mp3</guid>
-            <pubDate>Mon Jan 1 08:30:00 2024</pubDate>
+            <pubDate>Mon, 1 Jan 08:30:00 2024 GMT</pubDate>
             <itunes:explicit>NO</itunes:explicit>
         </item>
     </channel>
